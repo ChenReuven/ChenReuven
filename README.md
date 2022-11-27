@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi I'm Chen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+hi, i'm Chen Reuven, a passionate self-taught Senior Front End Developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+I learned a lot from the open-source community and i love how collaboration and knowledge sharing stuff with other peoples.
+
+:mailbox: Reach me out!
+
 
 <!--
 **ChenReuven/ChenReuven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
