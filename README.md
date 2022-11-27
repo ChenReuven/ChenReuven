@@ -10,6 +10,13 @@ I learned a lot from the open-source community and i love how collaboration and 
 [![Linkedin Badge](https://img.shields.io/badge/-ChenReuven-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-reuven-7535aa28/) 
 [![Mail Badge](https://img.shields.io/badge/-ChenReuven-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chen.rvn@gmail.com)
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 🔭 I’m currently working at @CyberArk
+- :computer: Most used line of code `npm run ...`
+- 📫 How to reach me: chen.rvn@gmail.com.
+- 😄 Pronouns: Chen Reuven, ChenRvn, "Sharkker".
+- ⚡ Fun fact: I play soccer and love DIY stuff.
 
 <!--
 **ChenReuven/ChenReuven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
