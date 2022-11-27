@@ -15,7 +15,7 @@ I learned a lot from the open-source community and i love how collaboration and 
 - 🔭 I’m currently working at @CyberArk
 - :computer: Most used line of code `npm run ...`
 - 📫 How to reach me: chen.rvn@gmail.com.
-- 😄 Pronouns: Chen Reuven, ChenRvn, "Sharkker".
+- 😄 Pronouns: Chen Reuven, ChenRvn, "Sharker".
 - ⚡ Fun fact: I play soccer and love DIY stuff.
 
 <!--
