@@ -6,6 +6,10 @@ I learned a lot from the open-source community and i love how collaboration and 
 
 :mailbox: Reach me out!
 
+[![Twitter Badge](https://img.shields.io/badge/-@ChenReuven-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChenRvn)](https://twitter.com/ChenRvn) 
+[![Linkedin Badge](https://img.shields.io/badge/-ChenReuven-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-reuven-7535aa28/) 
+[![Mail Badge](https://img.shields.io/badge/-ChenReuven-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chen.rvn@gmail.com)
+
 
 <!--
 **ChenReuven/ChenReuven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
