@@ -2,6 +2,8 @@
 
 hi, i'm Chen Reuven, a passionate self-taught Senior Front End Developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
+<a href="https://app.daily.dev/creuven"><img src="https://api.daily.dev/devcards/0e43fe0345534306a3daac28e0a16c31.png?r=pxe" width="400" alt="Chen Reuven's Dev Card"/></a>
+
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing stuff with other peoples.
 
 :mailbox: Reach me out!
