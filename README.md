@@ -33,4 +33,4 @@ I learned a lot from the open-source community and i love how collaboration and 
 You can see all my articles in my <a href="https://medium.com/@chen.reuven" target="_blank">Medium</a>
 
 #### Dev Card
-<a href="https://app.daily.dev/creuven"><img src="https://api.daily.dev/devcards/0e43fe0345534306a3daac28e0a16c31.png?r=pxe" width="300" alt="Chen Reuven's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/chenreuven/chenreuven/blob/master/devcard.svg" width="400" alt=Chen Reuven Dev Card"/></a>
